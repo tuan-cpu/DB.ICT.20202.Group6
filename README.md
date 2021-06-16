@@ -8,9 +8,8 @@ A new Flutter project for Database Lab class.
 2. Open AVD manager in settings and make a simulator Android device
 3. Install dart/flutter sdk -> google it
 4. git clone -b master https://github.com/tuan-cpu/DB.ICT.20202.Group6.git
-5. Open VSCode or Android Studio -> open the folder you clone the app.
+5. Open VSCode -> open the folder you clone the app.
 6. For VSCode, press F5 to install necessary package -> press Run->Run without debugging->choose Dart/Flutter
-7. For Android Studio, open the project->connect to the simulator device->press Run (green triangle button)
 ### Important note:
 >Since this app requires fetching data from our local postgres server, you should ask us for the replica script
 >to build your own database on your server and config the query connection with your own ip address.
